@@ -1,5 +1,12 @@
 hello from ssh
 
+<<<<<<< .merge_file_rqHiGL
 change1 - master
 
 change2 - master
+=======
+
+hotfix
+
+hotfix2
+>>>>>>> .merge_file_2ysqHD
