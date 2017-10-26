@@ -1,5 +1,6 @@
 hello from ssh
 
+new change2
 new change1
 
 <<<<<<< .merge_file_rqHiGL
